@@ -114,7 +114,7 @@ int main()
 void board()
 {
     system("cls");
-    printf("\n\n\ Tic Tac Toe [FBA]\n\n");
+    printf("\n\n\ Tic Tac Toe \n\n");
     printf("Player 1 (X)  -  Player 2 (O)\n\n\n");
     printf("     |     |     \n");
     printf("  %c  |  %c  |  %c \n", square[1], square[2], square[3]);
